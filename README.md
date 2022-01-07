@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emanuel Gómez Cortés.
 - 👀 I’m interested in: Get involved with the dev community to grow and improve my abilities.
-- 🌱 I’m currently learning: [Elixir](https://elixir-lang.org/)
+- 🌱 I’m currently learning: [.NET](https://dotnet.microsoft.com/en-us/) and [ReactJS](https://reactjs.org/)
 - 💞️ I’m looking to collaborate on: Any php project.
 - 📫 How to reach me: [fe.gomez.corter@gmail.com](mailto:fe.gomez.corter@gmail.com)
 
